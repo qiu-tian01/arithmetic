@@ -5,4 +5,4 @@
 下面全部算法均以 JavaScript 编写实现。
 
 
-- [数组篇](./md/array.js)
+- [数组篇](./md/array.md)
