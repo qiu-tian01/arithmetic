@@ -43,6 +43,7 @@
  * 
 */
 
+//解法一
 var rotate = function (matrix) {
     let newArr = [];
     const len = matrix.length;
@@ -66,7 +67,7 @@ var rotate = function (matrix) {
     return matrix
 };
 
-
+//解法二
 var rotate = function (matrix) {
     let newArr = [];
     const len = matrix.length;
